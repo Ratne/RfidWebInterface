@@ -1,8 +1,6 @@
 #Rfid Web Interface 
 
 
-Simple java rfid interface that works with Apache Tomcat between a browser and wireless antenna. 
+An easy java rfid interface that works between a browser and a wireless antenna through the use of Apache Tomcat 
 
-.war file included that return the .json rfid tag readed by the antenna
-
-from a browser go @ localhost/Rfid3/param to set the ip address of the uhf reader
+**The “.war” file is included** in the package; after deployed it and set the ip address of the uhf reader going, from a browser, @ localhost/Rfid3/param  you’ll be able to obtain the rfid tag readed by the antenna thanks to the “.json” file located in the localhost/Rfid3 position
