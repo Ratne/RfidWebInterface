@@ -9,7 +9,7 @@
 	<packaging>war</packaging>
 
 	<name>Rfid3</name>
-	<description>Serveur services</description>
+	<description>Services</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
